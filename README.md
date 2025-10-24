@@ -4,10 +4,10 @@
 
 |    NÚMERO     |                  TASCA                      |     MEMBRE    |
 | ------------- |:-------------------------------------------:| ------------- |
-| 1             |Pagina de Interestellar i estils             | Alejandro     |
-| 2             |                                             | Diego         |
-| 3             |Pagina de The Last of Us i estils            | Íker          |
-| 4             |Pagina de Stranger Things i estils           | César         |
+| 1             |Página de Interestellar i estils             | Alejandro     |
+| 2             |Página de Serie Diego i estils               | Diego         |
+| 3             |Página de The Last of Us i estils            | Íker          |
+| 4             |Página de Stranger Things i estils           | César         |
 | 5             |Página HTML index i estils                   | Daniel        |
 
 # ENLLAÇOS
