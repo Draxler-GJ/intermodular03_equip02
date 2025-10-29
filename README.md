@@ -5,13 +5,13 @@
 |    NÚMERO     |                  TASCA                      |     MEMBRE    |
 | ------------- |:-------------------------------------------:| ------------- |
 | 1             |Página de Interestellar i estils             | Alejandro     |
-| 2             |Página de Serie Diego i estils               | Diego         |
+| 2             |Página de Hunter x Hunter i estils           | Diego         |
 | 3             |Página de The Last of Us i estils            | Íker          |
 | 4             |Página de Stranger Things i estils           | César         |
 | 5             |Página HTML index i estils                   | Daniel        |
 
 # ENLLAÇOS
 * https://markdownlivepreview.com/
-* https://markdownlivepreview.com/
+* https://www.imdb.com/es-es/title/tt2098220/
 * https://markdownlivepreview.com/
 * https://markdownlivepreview.com/
