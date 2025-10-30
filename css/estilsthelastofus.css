@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    background-color: brown;
+}
+
+main {
+    text-align: center;
+    background-color: beige;
+    margin: 0rem 3rem;
+    padding: 1rem;
+}
+
+header, footer {
+    text-align: center;
+    background-color:burlywood;
+}
+
+h1, h2 {
+    margin: 0;
+    padding: 1rem;
+}
+
+figure {
+    margin: 0;
+}
+
+figcaption {
+    color: darkslategrey;
+}
+
+img {
+    border-radius: 10px;
+    width: 100%;
+    max-width: 455px;
+}
+
+td {
+    width: 50%;
+}
+
+p {
+    padding: 0rem 2rem;
+}
+
+h3 {
+    margin: 0;
+    padding-top: 1rem;
+}
+
+ul {
+    width: fit-content;
+    margin: auto;
+    padding-bottom: 1rem;
+}
+
+li {
+    text-align: left; 
+}
