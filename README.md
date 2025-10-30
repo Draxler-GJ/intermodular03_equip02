@@ -11,7 +11,7 @@
 | 5             |Página HTML index i estils                   | Daniel        |
 
 # ENLLAÇOS
-* https://www.imdb.com/es-es/title/tt0816692/ 
-* https://www.imdb.com/es-es/title/tt2098220/
-* https://www.imdb.com/es/title/tt3581920/
+* [Interestellar]https://www.imdb.com/es-es/title/tt0816692/ 
+* [Hunter x Hunter]https://www.imdb.com/es-es/title/tt2098220/
+* [The Last Of Us]https://www.imdb.com/es/title/tt3581920/
 * https://markdownlivepreview.com/
