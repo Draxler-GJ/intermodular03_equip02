@@ -1,5 +1,15 @@
 # EQUIP 2 - INTERMODULAR 03
 
+# MEMBRES DEL GRUP
+
+|    NÚMERO     |                  TASCA                      |     POBLACIÓ        | IMATGE   |
+| ------------- |:-------------------------------------------:| --------------------|----------|
+| 1             |Alejandro Garrido Reipricht                  | L'Alcudia de Crepins|          |
+| 2             |Diego Mayans Perales                         | L'Alcudia de Crepins|          |
+| 3             |Iker Alarcón Esteve                          | Rotglà i Corberà    |          |
+| 4             |César Oltra Part                             | Benigànim           |          |
+| 5             |Daniel Jornet Gómez                          | Xàtiva              |          |
+
 # REPARTIMENT DE TASQUES
 
 |    NÚMERO     |                  TASCA                      |     MEMBRE    |
