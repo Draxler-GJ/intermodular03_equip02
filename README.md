@@ -8,7 +8,7 @@
 | 2             |Diego Mayans Perales                         | L'Alcudia de Crepins| (./img/hunter.jpg)                |
 | 3             |Iker Alarcón Esteve                          | Rotglà i Corberà    | (./img/thelastofus.jpg)           |
 | 4             |César Oltra Part                             | Benigànim           | (./img/strangerthings.jpg)        |
-| 5             |Daniel Jornet Gómez                          | Xàtiva              | ![Git logo](./img/Git_logo.png)       |
+| 5             |Daniel Jornet Gómez                          | Xàtiva              | ![Git logo](/img/Git_log)         |
 
 # REPARTIMENT DE TASQUES
 
