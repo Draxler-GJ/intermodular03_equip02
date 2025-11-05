@@ -4,7 +4,7 @@
 
 |    NÚMERO     |                  TASCA                      |     POBLACIÓ        |            IMATGE              |
 | ------------- |:-------------------------------------------:| --------------------|--------------------------------|
-| 1             |Alejandro Garrido Reipricht                  | L'Alcudia de Crepins| (./img/alejandroimg.jpg)          |
+| 1             |Alejandro Garrido Reipricht                  | L'Alcudia de Crepins| ![Alejandro](img/alejandroimg.jpg)          |
 | 2             |Diego Mayans Perales                         | L'Alcudia de Crepins| (./img/hunter.jpg)                |
 | 3             |Iker Alarcón Esteve                          | Rotglà i Corberà    | (./img/thelastofus.jpg)           |
 | 4             |César Oltra Part                             | Benigànim           | (./img/strangerthings.jpg)        |
